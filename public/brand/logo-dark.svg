@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none" role="img" aria-label="AFRINOVERA Technologies">
+  <defs>
+    <linearGradient id="afri-grad-dark" x1="8" y1="54" x2="56" y2="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="6" width="52" height="52" rx="12" fill="#112240" stroke="#1E3A8A" stroke-width="1.5"/>
+  <path d="M30 15L45 47H37.8L34.6 39.8H25.4L22.2 47H15L30 15ZM30 25.4L27.4 33.8H32.6L30 25.4Z" fill="#FFFFFF"/>
+  <path d="M11 40.5C18.5 29.5 34.5 21 51 17.5" stroke="url(#afri-grad-dark)" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="50.5" cy="17.5" r="3" fill="#06B6D4"/>
+  <text x="68" y="34" fill="#FFFFFF" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="22" font-weight="800" letter-spacing="1.4">AFRINOVERA</text>
+  <text x="69" y="49" fill="#38BDF8" font-family="'Public Sans', system-ui, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2">TECHNOLOGIES</text>
+</svg>
